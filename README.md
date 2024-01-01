@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 ![Yeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyh11224&count_private=true&show_icons=true&theme=radical)
-
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyh11224)](https://solved.ac/jyh11224)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
