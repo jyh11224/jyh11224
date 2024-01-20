@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyh11224&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📊 Github stats 📊
-[![Yeong hun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyh11224&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/jyh11224/github-readme-stats)
+![Yeonghun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyh11224&include_all_commits=true&theme=radical&hide_border=true&count_private=true)
 <p>
 
 ## 🥇 Baekjoon solved rank 🥇
