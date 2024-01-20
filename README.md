@@ -59,11 +59,11 @@ Here are some ideas to get you started:
     <!-- Development Tools -->
     <p><strong>Development Tools</p>
     <div>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
         <img src="https://img.shields.io/badge/docker-3776AB?style=for-the-badge&logo=docker&logoColor=white">
     </div>
     <!-- Others -->
