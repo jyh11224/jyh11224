@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-   <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
+   <a href="mailto:jyh11224@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
 </div><br>
 
  ## 🔨 Once I've used 🔨
