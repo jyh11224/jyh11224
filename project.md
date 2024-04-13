@@ -1,7 +1,6 @@
 # PROJECTS
 
 
-
 ## Depth Estimation
 
 <ul>
