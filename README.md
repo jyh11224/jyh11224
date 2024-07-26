@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate&descAlignY=51&descAlign=62&height=3-0)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Yeonghun's+GitHub!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Welcome%20Yeonghun's%20Github&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+
 <!--
 **jyh11224/jyh11224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
