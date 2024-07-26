@@ -29,7 +29,21 @@ Here are some ideas to get you started:
    <a href="mailto:jyh11224@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
 </div><br>
 
+## 💻 Project
+- KT 디지털 인재 장학생 프로그램
+- AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
+- 3D Face Reconstruction
+- 산학협력 R&D Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발
+- GLTF 변환
+- 3D Depth Estimation
+- 2023 산업통상자원부 공공데이터 활용 빅데이터 분석
+
+
 ## 📄 Paper
+- 한국멀티미디어공학회, MaxProfit Time Series Clustering Technique Based on Error RateEvaluation to Improve Reward of Distributed Energy Virtual Power Accept
+- VCM 표준화 현황 관련 영어 논문
+
+## https://user-images.githubusercontent.com/26138180/40358719-21768506-5db8-11e8-8a7c-32c2cfd754a4.png![image](https://github.com/user-attachments/assets/153b9409-13a8-4e43-a099-e4706a3082f7) Conference
 
 
  ## 🔨 Once I've used 
