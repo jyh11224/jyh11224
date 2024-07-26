@@ -17,19 +17,22 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyh11224&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 📊 Github stats 📊
+## 📊 Github stats 
 ![Yeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyh11224&show_icons=true&theme=dracula)
 <p>
 
-## 🥇 Baekjoon solved rank 🥇
+## 🥇 Baekjoon solved rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyh11224)](https://solved.ac/jyh11224)
 
-## 📞 Contact 📞
+## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
    <a href="mailto:jyh11224@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
 </div><br>
 
- ## 🔨 Once I've used 🔨
+## 📄 Paper
+
+
+ ## 🔨 Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
