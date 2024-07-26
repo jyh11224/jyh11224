@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 한국멀티미디어공학회, MaxProfit Time Series Clustering Technique Based on Error RateEvaluation to Improve Reward of Distributed Energy Virtual Power Accept
 - VCM 표준화 현황 관련 영어 논문
 
-## https://user-images.githubusercontent.com/26138180/40358719-21768506-5db8-11e8-8a7c-32c2cfd754a4.png![image](https://github.com/user-attachments/assets/153b9409-13a8-4e43-a099-e4706a3082f7) Conference
+## Conference
 
 
  ## 🔨 Once I've used 
