@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 
 ## 📄 Paper
-- 한국멀티미디어공학회, MaxProfit Time Series Clustering Technique Based on Error RateEvaluation to Improve Reward of Distributed Energy Virtual Power Accept
-- VCM 표준화 현황 관련 영어 논문
+- 한국멀티미디어공학회, 분산에너지 가상발전소의 정산금 향상을 위한 오차율 평가 기반 최대 이익 시계열 클러스터링 기법
+- 한국방송·미디어공학회, Exploring the Video Coding for Machines Standard: Current Status and Future Directions
 
 ## Conference
-
+- 한국방송·미디어공학회, 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성
 
  ## 🔨 Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
