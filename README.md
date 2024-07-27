@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 한국방송·미디어공학회, Exploring the Video Coding for Machines Standard: Current Status and Future Directions
 
 ## Conference
+- iMiD2024(3DSA), 3D Human Model Generation from 2D Single Image
 - 한국방송·미디어공학회, 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성
 
  ## 🔨 Once I've used 
