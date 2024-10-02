@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - KT 디지털 인재 장학생 프로그램
 - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
 - 3D Face Reconstruction
-- 산학협력 R&D Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발
+- Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발
 - GLTF 변환 알고리즘 분석
 - 3D Depth Estimation
 - 2023 산업통상자원부 공공데이터 활용 빅데이터 분석
