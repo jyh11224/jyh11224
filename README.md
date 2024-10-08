@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
+   <a href="mailto:yeonghun.jeong@m4ml.re.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
+</div>
+<div style="display:flex; flex-direction:row;">
    <a href="mailto:jyh11224@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
 </div><br>
 
