@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 </div><br>
 
 ## 💻 Project
+- 위장 객체 탐지를 위한 데이터 증강 기법
 - KT 디지털 인재 장학생 프로그램
 - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발
 - 3D Face Reconstruction
 - Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발
 - GLTF 변환 알고리즘 분석
-- 3D Depth Estimation
+- Nvidia jetson을 이용한 Depth Estimation 성능 개선
 - 2023 산업통상자원부 공공데이터 활용 빅데이터 분석
 
 
