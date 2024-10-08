@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
-   <a href="mailto:yeonghun.jeong@m4ml.re.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
-</div>
-<div style="display:flex; flex-direction:row;">
+   <a href="mailto:yeonghun.jeong@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=flat-squaare&logo=Microsoft-edge&logoColor=white"/></a>
    <a href="mailto:jyh11224@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
-</div><br>
+</div>
+
 
 ## 💻 Project
 - 위장 객체 탐지를 위한 데이터 증강 기법
