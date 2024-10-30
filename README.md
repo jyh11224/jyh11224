@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ## 📊 Github stats 
 ![Yeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyh11224&show_icons=true&theme=dracula)
 <p>
-
+<!--
 ## 🥇 Baekjoon solved rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyh11224)](https://solved.ac/jyh11224)
-
+-->
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
    <a href="mailto:yeonghun.jeong@m4ml.re.kr"><img src ="https://img.shields.io/badge/M4ML-0078D7?style=flat-squaare&logo=Microsoft-edge&logoColor=white"/></a>
