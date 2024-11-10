@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 - 한국방송·미디어공학회, Exploring the Video Coding for Machines Standard: Current Status and Future Directions
 
 ## Conference
+- 한국방송·미디어공학회, 위장 객체 탐지를 위한 데이터 증강 기법
 - iMiD2024(3DSA), 3D Human Model Generation from 2D Single Image
 - 한국방송·미디어공학회, 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성
 - IPIU2024 - End-To-End 딥러닝 기반 비디오 코덱을 이용한 VCM-RS
