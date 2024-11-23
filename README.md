@@ -54,6 +54,13 @@ Here are some ideas to get you started:
 - 한국방송·미디어공학회, 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성
 - IPIU2024 - End-To-End 딥러닝 기반 비디오 코덱을 이용한 VCM-RS
 
+<div style="text-align: lefg;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+           <li> - [2023.08] 3rd Award, Dong‐A University DevDay</li>
+           <li> - [2023.12] 3rd Award, Dong‐A University DevDay </li>
+ </div><br>
+
  ## 🔨 Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
