@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <div style="text-align: lefg;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-           <li> - [2024.11] Best Paper Award, 2024한국멀티미디어학회 추계학술발표대회</li>
+           <li> - [2024.11] Best Paper Award, 2024 한국멀티미디어학회 추계학술발표대회</li>
            <li> - [2023.08] 3rd Award, Dong‐A University DevDay</li>
            <li> - [2023.12] 3rd Award, Dong‐A University DevDay </li>
  </div><br>
