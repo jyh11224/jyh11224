@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 
 
 ## 📄 Paper
-- 한국멀티미디어공학회, 분산에너지 가상발전소의 정산금 향상을 위한 오차율 평가 기반 최대 이익 시계열 클러스터링 기법
-- 한국방송·미디어공학회, Exploring the Video Coding for Machines Standard: Current Status and Future Directions
-- 한국방송·미디어공학회, 위장 객체 탐지를 위한 데이터 증강 기법
+- 한국멀티미디어학회, 위장 객체 탐지를 위한 데이터 증강 기법
+- 한국멀티미디어학회, Repaint-Seg: Segmentation 및 Inpainting 기반 객체 탐지 데이터셋 증강 기법
+- 한국멀티미디어학회, Pre-Recorded Video 자막 추출 기술 개발
 - iMiD2024(3DSA), 3D Human Model Generation from 2D Single Image
 - 한국방송·미디어공학회, 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성
-- IPIU2024 - End-To-End 딥러닝 기반 비디오 코덱을 이용한 VCM-RS
+- 한국멀티미디어학회, 분산에너지 가상발전소의 정산금 향상을 위한 오차율 평가 기반 최대 이익 시계열 클러스터링 기법
 
 <div style="text-align: lefg;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
            <li> - [2024.11] Best Paper Award, 2024 한국멀티미디어학회 추계학술발표대회</li>
-           <li> - [2023.08] 3rd Award, Dong‐A University DevDay</li>
-           <li> - [2023.12] 3rd Award, Dong‐A University DevDay </li>
+           <li> - [2023.12] 3rd Award, Dong‐A University DevDay</li>
+           <li> - [2023.08] 3rd Award, Dong‐A University DevDay </li>
  </div><br>
 
  ## 🔨 Once I've used 
